@@ -5,3 +5,6 @@
 *.jpg
 *.jpeg
 *.gif
+pyimgur/test/__pycache__/album_auth_test.cpython-27-PYTEST.pyc
+*.pyc
+pyimgur/test/authentication.py
